@@ -41,5 +41,5 @@ align-items: center;
 }
 .content button:hover{
     background-color: #013a26;
-    transition: 0.5s ease-in-out;
+    transition: 0.5s ease-out;
 }
